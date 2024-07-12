@@ -4,7 +4,7 @@ pkgbase=th1520-boot-firmware
 pkgname=('th1520-boot-firmware'
          'th1520-vendor-opensbi'
          'th1520-mainline-opensbi')
-pkgver=r7.c1b04c6
+pkgver=r8.c5ab818
 pkgrel=1
 url="https://github.com/revyos/th1520-boot-firmware"
 arch=(riscv64)
